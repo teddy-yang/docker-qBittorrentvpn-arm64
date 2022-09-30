@@ -2,7 +2,7 @@
 #
 # Version 1.8
 
-FROM ubuntu:20.04
+FROM arm64v8/ubuntu:20.04
 MAINTAINER MarkusMcNugen
 
 VOLUME /downloads
