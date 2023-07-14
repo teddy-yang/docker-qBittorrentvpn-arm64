@@ -7,7 +7,7 @@ MAINTAINER MarkusMcNugen
 
 VOLUME /downloads
 VOLUME /config
-COPY config config
+COPY ./config /config
 
 ENV DEBIAN_FRONTEND noninteractive
 
