@@ -1,0 +1,786 @@
+(N) 2022-03-20T05:17:29 - Using built-in Web UI.
+(W) 2022-03-20T05:17:29 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-03-20T05:17:29 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-03-20T05:17:29 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-03-20T05:17:29 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-03-20T05:17:29 - 'Only Fans - MrDeepVoice - 3way with Ruggery Valdivia (@roy3te) &amp; Jose Poyato (@poyatoreal) [1080p].mp4' restored.
+(N) 2022-03-20T05:17:30 - 'Outlander.S06E03.1080p.WEB.H264-PECULATE[eztv.re].mkv' restored.
+(N) 2022-03-20T05:17:30 - 'CFF Comp Part 1.mp4' restored.
+(W) 2022-03-20T05:17:35 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-03-20T05:18:14 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-03-20T05:18:30 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-03-20T05:18:32 - Detected external IP: 23.81.176.97
+(N) 2022-03-20T05:18:52 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-03-20T05:19:03 - 'Only Fans - MrDeepVoice - 3way with Ruggery Valdivia (@roy3te) &amp; Jose Poyato (@poyatoreal) [1080p].mp4' was removed from the transfer list and hard disk.
+(N) 2022-03-20T05:19:03 - 'CFF Comp Part 1.mp4' was removed from the transfer list and hard disk.
+(N) 2022-03-20T05:32:52 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-03-20T05:43:57 - 'Outlander.S06E03.1080p.WEB.H264-PECULATE[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-03-20T05:48:05 - 'Outlander.S06E03.1080p.WEB.H264-PECULATE[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-03-20T07:06:33 - 'Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-03-20T07:35:30 - 'Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-03-20T07:40:50 - 'Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-03-27T06:59:46 - 'Outlander.S06E04.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-03-27T07:21:13 - 'Outlander.S06E04.1080p.WEB.h264-GOSSIP[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-03-27T07:26:12 - 'Outlander.S06E04.1080p.WEB.h264-GOSSIP[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-03-27T14:29:35 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-03-27T14:30:07 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-01T01:35:30 - qBittorrent v4.2.1 started
+(N) 2022-04-01T01:35:30 - Using config directory: /config/qBittorrent/config/
+(I) 2022-04-01T01:35:30 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-04-01T01:35:30 - Peer ID: -qB4210-
+(N) 2022-04-01T01:35:30 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-04-01T01:35:30 - DHT support [ON]
+(I) 2022-04-01T01:35:30 - Local Peer Discovery support [ON]
+(I) 2022-04-01T01:35:30 - PeX support [ON]
+(I) 2022-04-01T01:35:30 - Anonymous mode [OFF]
+(I) 2022-04-01T01:35:30 - Encryption support [ON]
+(W) 2022-04-01T01:35:30 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-04-01T01:35:30 - Using built-in Web UI.
+(W) 2022-04-01T01:35:30 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-04-01T01:35:30 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-04-01T01:35:30 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-04-01T01:35:30 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-04-01T01:35:35 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-04-01T01:36:18 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-04-01T01:36:21 - Detected external IP: 23.81.176.97
+(N) 2022-04-01T01:36:43 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-03T02:19:08 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-03T06:55:13 - 'Outlander.S06E05.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-04-03T07:16:15 - 'Outlander.S06E05.1080p.WEB.h264-GOSSIP[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-04-03T07:20:17 - 'Outlander.S06E05.1080p.WEB.h264-GOSSIP[eztv.re].mkv' was removed from the transfer list and hard disk.
+(I) 2022-04-07T02:18:10 - Detected external IP: 23.81.176.99
+(I) 2022-04-07T04:29:28 - Detected external IP: 23.81.176.97
+(I) 2022-04-09T02:34:15 - Detected external IP: 23.81.176.98
+(N) 2022-04-10T04:29:09 - 'outlander.s06e06.1080p.web.h264-cakes[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-04-10T04:54:26 - 'outlander.s06e06.1080p.web.h264-cakes[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-04-10T04:59:12 - 'outlander.s06e06.1080p.web.h264-cakes[eztv.re].mkv' was removed from the transfer list and hard disk.
+(I) 2022-04-13T18:07:13 - Detected external IP: 23.81.176.97
+(I) 2022-04-17T10:55:33 - Detected external IP: 23.81.176.98
+(N) 2022-04-17T17:49:07 - 'Shining.Vale.S01E03.1080p.WEB.H264-CAKES[TGx]' added to download list.
+(N) 2022-04-17T17:49:10 - 'Shining.Vale.S01E04.1080p.WEB.H264-GGEZ[TGx]' added to download list.
+(N) 2022-04-17T17:49:11 - 'Shining.Vale.S01E05.Chapter.Five.The.Squirrel.Knew.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' added to download list.
+(N) 2022-04-17T17:49:13 - 'Shining.Vale.S01E06.Chapter.Six.Whispering.Hope.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' added to download list.
+(N) 2022-04-17T17:49:15 - 'Shining.Vale.S01E07.Chapter.Seven.Impertinent.Questions.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' added to download list.
+(N) 2022-04-17T17:51:13 - 'Shining.Vale.S01E01.1080p.WEB.H264-CAKES[TGx]' added to download list.
+(N) 2022-04-17T17:51:40 - 'Shining.Vale.S01E02.1080p.WEB.H264-CAKES[TGx]' added to download list.
+(N) 2022-04-17T17:51:49 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-17T18:04:21 - 'Shining.Vale.S01E08.iNTERNAL.1080p.HEVC.x265-MeGusta[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-04-17T18:10:26 - 'Shining.Vale.S01E08.iNTERNAL.1080p.HEVC.x265-MeGusta[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-04-17T18:11:55 - 'Shining.Vale.S01E01.1080p.WEB.H264-CAKES[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-04-17T18:12:24 - 'Shining.Vale.S01E08.iNTERNAL.1080p.HEVC.x265-MeGusta[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-04-17T18:14:14 - 'Shining.Vale.S01E01.1080p.WEB.H264-CAKES[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-04-17T18:23:05 - 'Shining.Vale.S01E02.1080p.WEB.H264-CAKES[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-04-17T18:25:52 - 'Shining.Vale.S01E02.1080p.WEB.H264-CAKES[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-04-17T18:26:25 - 'Shining.Vale.S01E06.Chapter.Six.Whispering.Hope.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-04-17T18:28:51 - 'Shining.Vale.S01E06.Chapter.Six.Whispering.Hope.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-04-17T18:35:44 - 'Shining.Vale.S01E07.Chapter.Seven.Impertinent.Questions.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-04-17T18:36:24 - 'Shining.Vale.S01E04.1080p.WEB.H264-GGEZ[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-04-17T18:37:19 - 'Shining.Vale.S01E07.Chapter.Seven.Impertinent.Questions.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-04-17T18:37:59 - 'Shining.Vale.S01E04.1080p.WEB.H264-GGEZ[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-04-17T18:43:44 - 'Shining.Vale.S01E03.1080p.WEB.H264-CAKES[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-04-17T18:45:39 - 'Shining.Vale.S01E03.1080p.WEB.H264-CAKES[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-04-17T19:19:32 - 'Shining.Vale.S01E05.Chapter.Five.The.Squirrel.Knew.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-04-17T19:21:45 - 'Shining.Vale.S01E05.Chapter.Five.The.Squirrel.Knew.1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-04-17T21:02:44 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-18T02:25:25 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-20T22:17:17 - qBittorrent v4.2.1 started
+(N) 2022-04-20T22:17:17 - Using config directory: /config/qBittorrent/config/
+(I) 2022-04-20T22:17:17 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-04-20T22:17:17 - Peer ID: -qB4210-
+(N) 2022-04-20T22:17:17 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-04-20T22:17:17 - DHT support [ON]
+(I) 2022-04-20T22:17:17 - Local Peer Discovery support [ON]
+(I) 2022-04-20T22:17:17 - PeX support [ON]
+(I) 2022-04-20T22:17:17 - Anonymous mode [OFF]
+(I) 2022-04-20T22:17:17 - Encryption support [ON]
+(W) 2022-04-20T22:17:17 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-04-20T22:17:17 - Using built-in Web UI.
+(W) 2022-04-20T22:17:17 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-04-20T22:17:17 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-04-20T22:17:17 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-04-20T22:17:17 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-04-20T22:17:22 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-04-20T22:17:45 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-20T22:18:06 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-04-20T22:18:07 - Detected external IP: 23.81.176.98
+(N) 2022-04-21T19:21:59 - 'Selena.1997.Extended.Cut.1080p.BluRay.H264.AC3.DD5.1.Will1869[TGx] ?' added to download list.
+(N) 2022-04-21T19:22:08 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-21T20:22:44 - 'Selena.1997.Extended.Cut.1080p.BluRay.H264.AC3.DD5.1.Will1869[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-04-21T20:25:41 - 'Selena.1997.Extended.Cut.1080p.BluRay.H264.AC3.DD5.1.Will1869[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-04-22T01:18:03 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-25T17:02:20 - 'Lucy.2014.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL' added to download list.
+(N) 2022-04-25T17:02:43 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-25T19:45:09 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-26T05:12:12 - 'Lucy.2014.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL' reached the maximum ratio you set. Paused.
+(N) 2022-04-26T05:24:23 - 'Lucy.2014.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL' was removed from the transfer list and hard disk.
+(N) 2022-04-26T05:41:56 - 'The Man Who Fell to Earth (1976) [BluRay] [1080p] [YTS] [YIFY]' added to download list.
+(N) 2022-04-26T05:42:41 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-26T06:01:29 - 'The Man Who Fell To Earth (1976) [BluRay] [1080p] [YTS.AM]' reached the maximum ratio you set. Paused.
+(N) 2022-04-26T06:04:31 - 'The Man Who Fell To Earth (1976) [BluRay] [1080p] [YTS.AM]' was removed from the transfer list and hard disk.
+(N) 2022-04-26T14:44:37 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-27T10:30:01 - qBittorrent v4.2.1 started
+(N) 2022-04-27T10:30:01 - Using config directory: /config/qBittorrent/config/
+(I) 2022-04-27T10:30:01 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-04-27T10:30:01 - Peer ID: -qB4210-
+(N) 2022-04-27T10:30:01 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-04-27T10:30:01 - DHT support [ON]
+(I) 2022-04-27T10:30:01 - Local Peer Discovery support [ON]
+(I) 2022-04-27T10:30:01 - PeX support [ON]
+(I) 2022-04-27T10:30:01 - Anonymous mode [OFF]
+(I) 2022-04-27T10:30:01 - Encryption support [ON]
+(W) 2022-04-27T10:30:01 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-04-27T10:30:01 - Using built-in Web UI.
+(W) 2022-04-27T10:30:01 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-04-27T10:30:01 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-04-27T10:30:01 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-04-27T10:30:01 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-04-27T10:30:06 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-04-27T10:30:50 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-04-27T10:30:52 - Detected external IP: 23.81.176.97
+(N) 2022-04-27T10:31:28 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-04-27T11:05:31 - 'Outlander.S06E07.Sticks.and.Stones.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-04-27T11:33:06 - 'Outlander.S06E07.Sticks.and.Stones.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-04-27T11:38:40 - 'Outlander.S06E07.Sticks.and.Stones.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv.re].mkv' was removed from the transfer list and hard disk.
+(I) 2022-04-29T12:37:45 - Detected external IP: 23.81.176.99
+(N) 2022-05-01T06:03:08 - 'Outlander.S06E08.I.Am.Not.Alone.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-05-01T06:33:23 - 'Outlander.S06E08.I.Am.Not.Alone.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-05-01T06:39:08 - 'Outlander.S06E08.I.Am.Not.Alone.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-05-07T19:59:45 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-05-13T19:07:09 - 'The.Lost.City.2022.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-NOGRP' added to download list.
+(N) 2022-05-13T19:07:26 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-05-13T19:08:41 - 'The.Northman.2022.2160p.MA.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-MZABI' added to download list.
+(N) 2022-05-13T21:10:28 - 'The.Lost.City.2022.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-NOGRP' reached the maximum ratio you set. Paused.
+(N) 2022-05-13T21:27:00 - 'The.Lost.City.2022.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-NOGRP' was removed from the transfer list and hard disk.
+(N) 2022-05-13T22:09:57 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-05-13T23:13:59 - 'The.Northman.2022.2160p.MA.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-MZABI' reached the maximum ratio you set. Paused.
+(N) 2022-05-13T23:49:38 - 'The.Northman.2022.2160p.MA.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-MZABI' was removed from the transfer list and hard disk.
+(N) 2022-05-14T00:16:29 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-05-17T19:12:26 - Detected external IP: 23.81.176.98
+(N) 2022-05-18T01:23:20 - 'Sonic The Hedgehog 2 (2022) 2160p HDR 5.1 x265 10bit Phun Psyz' added to download list.
+(N) 2022-05-18T01:55:54 - 'Sonic The Hedgehog 2 (2022) 2160p HDR 5.1 x265 10bit Phun Psyz.mkv' reached the maximum ratio you set. Paused.
+(N) 2022-05-18T01:59:47 - 'Sonic The Hedgehog 2 (2022) 2160p HDR 5.1 x265 10bit Phun Psyz.mkv' was removed from the transfer list and hard disk.
+(N) 2022-05-22T04:52:35 - qBittorrent v4.2.1 started
+(N) 2022-05-22T04:52:35 - Using config directory: /config/qBittorrent/config/
+(I) 2022-05-22T04:52:35 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-05-22T04:52:35 - Peer ID: -qB4210-
+(N) 2022-05-22T04:52:35 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-05-22T04:52:35 - DHT support [ON]
+(I) 2022-05-22T04:52:35 - Local Peer Discovery support [ON]
+(I) 2022-05-22T04:52:35 - PeX support [ON]
+(I) 2022-05-22T04:52:35 - Anonymous mode [OFF]
+(I) 2022-05-22T04:52:35 - Encryption support [ON]
+(W) 2022-05-22T04:52:35 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-05-22T04:52:35 - Using built-in Web UI.
+(W) 2022-05-22T04:52:35 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-05-22T04:52:35 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-05-22T04:52:35 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-05-22T04:52:35 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-05-22T04:52:40 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-05-22T04:53:26 - Detected external IP: 23.81.176.97
+(N) 2022-05-22T04:54:47 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-05-22T04:54:57 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-05-22T04:56:01 - 'Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.DDP5.1.x264-NOGRP' added to download list.
+(N) 2022-05-22T05:28:25 - 'Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.DDP5.1.x264-NOGRP' reached the maximum ratio you set. Paused.
+(N) 2022-05-22T05:35:50 - 'Everything.Everywhere.All.At.Once.2022.1080p.WEBRip.DDP5.1.x264-NOGRP' was removed from the transfer list and hard disk.
+(N) 2022-05-22T07:49:25 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-05-23T05:12:10 - Detected external IP: 23.81.176.99
+(N) 2022-05-24T04:12:51 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-05-25T03:20:48 - 'Morbius.2022.2160p.MA.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-CM' added to download list.
+(N) 2022-05-25T03:20:57 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-05-25T04:02:42 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-05-25T04:38:39 - 'Morbius.2022.2160p.MA.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-CM' reached the maximum ratio you set. Paused.
+(N) 2022-05-25T05:03:44 - 'Morbius.2022.2160p.MA.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-CM' was removed from the transfer list and hard disk.
+(I) 2022-05-31T11:31:38 - Detected external IP: 23.81.176.97
+(N) 2022-06-05T13:52:06 - 'Downton Abbey (2019) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]' added to download list.
+(N) 2022-06-05T13:52:59 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-05T14:41:28 - 'Downton Abbey (2019) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)' reached the maximum ratio you set. Paused.
+(N) 2022-06-05T14:48:27 - 'Downton Abbey (2019) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)' was removed from the transfer list and hard disk.
+(N) 2022-06-06T06:11:13 - qBittorrent v4.2.1 started
+(N) 2022-06-06T06:11:13 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-06T06:11:13 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-06-06T06:11:13 - Peer ID: -qB4210-
+(N) 2022-06-06T06:11:13 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-06-06T06:11:13 - DHT support [ON]
+(I) 2022-06-06T06:11:13 - Local Peer Discovery support [ON]
+(I) 2022-06-06T06:11:13 - PeX support [ON]
+(I) 2022-06-06T06:11:13 - Anonymous mode [OFF]
+(I) 2022-06-06T06:11:13 - Encryption support [ON]
+(W) 2022-06-06T06:11:13 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-06-06T06:11:13 - Using built-in Web UI.
+(W) 2022-06-06T06:11:13 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-06-06T06:11:13 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-06-06T06:11:13 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-06-06T06:11:13 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-06-06T06:11:18 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-06-06T06:11:50 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-06-06T06:12:03 - Detected external IP: 23.81.176.98
+(N) 2022-06-06T06:12:15 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-06T06:22:45 - qBittorrent v4.2.1 started
+(N) 2022-06-06T06:22:45 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-06T06:22:48 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-06-06T06:22:49 - Peer ID: -qB4210-
+(N) 2022-06-06T06:22:49 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-06-06T06:22:50 - DHT support [ON]
+(I) 2022-06-06T06:22:50 - Local Peer Discovery support [ON]
+(I) 2022-06-06T06:22:51 - PeX support [ON]
+(I) 2022-06-06T06:22:51 - Anonymous mode [OFF]
+(I) 2022-06-06T06:22:51 - Encryption support [ON]
+(W) 2022-06-06T06:22:52 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-06-06T06:22:53 - Using built-in Web UI.
+(W) 2022-06-06T06:22:53 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-06-06T06:22:53 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-06-06T06:22:59 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-06-06T06:22:59 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-06-06T06:23:07 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-06-06T06:23:43 - Detected external IP: 23.81.176.98
+(N) 2022-06-06T06:24:01 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-06T06:24:18 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-06T22:37:18 - 'Straight.Up.2020.1080p.WEB-DL.H264.AC3-EVO[EtHD]' added to download list.
+(N) 2022-06-07T11:39:24 - 'Everything.Everywhere.All.At.Once.2022.2160p.WEBRip.3999MB.DDP5.1.x264-GalaxyRG' added to download list.
+(N) 2022-06-07T13:28:08 - 'Everything.Everywhere.All.At.Once.2022.2160p.WEBRip.3999MB.DDP5.1.x264-GalaxyRG[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-06-07T13:32:31 - 'Everything.Everywhere.All.At.Once.2022.2160p.WEBRip.3999MB.DDP5.1.x264-GalaxyRG[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-06-07T16:41:59 - 'Morbius.2022.2160p.UHD.BluRay.TrueHD.7.1.Atmos.HDR.x265-EVO[TGx]' added to download list.
+(N) 2022-06-08T02:48:14 - 'Morbius.2022.2160p.UHD.BluRay.TrueHD.7.1.Atmos.HDR.x265-EVO[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-06-08T03:11:01 - 'Morbius.2022.2160p.UHD.BluRay.TrueHD.7.1.Atmos.HDR.x265-EVO[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-06-08T03:24:55 - 'Eurotrip.2004.1080p.BluRay.x264-HD4U [PublicHD]' added to download list.
+(N) 2022-06-08T03:25:09 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-08T06:02:45 - 'Eurotrip.2004.1080p.BluRay.x264-HD4U [PublicHD]' reached the maximum ratio you set. Paused.
+(N) 2022-06-08T06:10:17 - 'Eurotrip.2004.1080p.BluRay.x264-HD4U [PublicHD]' was removed from the transfer list and hard disk.
+(N) 2022-06-08T17:00:41 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-09T07:01:38 - 'Downton.Abbey.A.New.Era.2022.2160p.WEB-DL.DDP5.1.Atmos.H.265-EVO[TGx]' added to download list.
+(N) 2022-06-09T11:58:43 - 'Downton.Abbey.A.New.Era.2022.2160p.WEB-DL.DDP5.1.Atmos.H.265-EVO[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-06-09T12:12:52 - 'Downton.Abbey.A.New.Era.2022.2160p.WEB-DL.DDP5.1.Atmos.H.265-EVO[TGx]' was removed from the transfer list and hard disk.
+(I) 2022-06-11T09:44:39 - Detected external IP: 23.81.176.99
+(N) 2022-06-11T11:28:28 - 'The.Northman.2022.2160p.10bit.HDR.DV.BluRay.8CH.x265.HEVC-PSA' added to download list.
+(N) 2022-06-11T14:32:39 - 'The.Northman.2022.2160p.10bit.HDR.DV.BluRay.8CH.x265.HEVC-PSA' reached the maximum ratio you set. Paused.
+(N) 2022-06-11T14:38:57 - 'The.Northman.2022.2160p.10bit.HDR.DV.BluRay.8CH.x265.HEVC-PSA' was removed from the transfer list and hard disk.
+(N) 2022-06-13T03:51:25 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-13T03:52:27 - 'Queer As Folk 2022 S01 1080p PCOK WEBRip DDP5 1 x264-MIXED' added to download list.
+(N) 2022-06-13T05:42:27 - 'Queer.As.Folk.2022.S01.1080p.PCOK.WEBRip.DDP5.1.x264-MIXED[eztv.re]' reached the maximum ratio you set. Paused.
+(N) 2022-06-13T06:02:56 - 'Queer.As.Folk.2022.S01.1080p.PCOK.WEBRip.DDP5.1.x264-MIXED[eztv.re]' was removed from the transfer list and hard disk.
+(N) 2022-06-13T13:07:19 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-06-15T12:13:58 - Detected external IP: 23.81.176.97
+(N) 2022-06-15T20:10:26 - WebAPI login success. IP: 172.22.0.1
+(W) 2022-06-15T20:10:27 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: 172.22.0.1, username: tedsey
+(N) 2022-06-15T20:10:35 - 'Straight.Up.2020.1080p.WEB-DL.H264.AC3-EVO[EtHD]' was removed from the transfer list and hard disk.
+(N) 2022-06-15T20:11:31 - Download first and last piece first: Off, torrent: 'Only Fans - Kosta Viking 3 of 3'
+(N) 2022-06-15T20:11:31 - 'Only Fans - Kosta Viking 3 of 3' added to download list.
+(N) 2022-06-15T20:14:24 - Download first and last piece first: Off, torrent: 'Only Fans - Kosta Viking 1 of 3'
+(N) 2022-06-15T20:14:24 - 'Only Fans - Kosta Viking 1 of 3' added to download list.
+(N) 2022-06-15T20:15:13 - Download first and last piece first: Off, torrent: 'Only Fans - Kosta Viking 2 of 3'
+(N) 2022-06-15T20:15:13 - 'Only Fans - Kosta Viking 2 of 3' added to download list.
+(N) 2022-06-15T23:41:51 - 'Only Fans - Kosta Viking 1 of 3' reached the maximum ratio you set. Paused.
+(N) 2022-06-15T23:51:21 - 'Only Fans - Kosta Viking 2 of 3' reached the maximum ratio you set. Paused.
+(N) 2022-06-15T23:53:10 - 'Only Fans - Kosta Viking 3 of 3' reached the maximum ratio you set. Paused.
+(I) 2022-06-16T11:58:54 - Detected external IP: 23.81.176.99
+(N) 2022-06-16T17:31:48 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-16T17:32:17 - 'Only Fans - Kosta Viking 1 of 3' reached the maximum ratio you set. Paused.
+(W) 2022-06-16T17:32:26 - File error alert. Torrent: &quot;Only Fans - Kosta Viking 1 of 3&quot;. File: &quot;/Users/teddyyang/Downloads/Only Fans - Kosta Viking 1 of 3/.unwanted/KostaViking_OF (20).mp4&quot;. Reason: Only Fans - Kosta Viking 1 of 3 partfile_read (/Users/teddyyang/Downloads/Only Fans - Kosta Viking 1 of 3/.unwanted/KostaViking_OF (20).mp4) error: No such file or directory
+(W) 2022-06-16T17:32:33 - File error alert. Torrent: &quot;Only Fans - Kosta Viking 1 of 3&quot;. File: &quot;/Users/teddyyang/Downloads/Only Fans - Kosta Viking 1 of 3/.unwanted/KostaViking_OF (20).mp4&quot;. Reason: Only Fans - Kosta Viking 1 of 3 partfile_read (/Users/teddyyang/Downloads/Only Fans - Kosta Viking 1 of 3/.unwanted/KostaViking_OF (20).mp4) error: No such file or directory
+(N) 2022-06-16T17:36:57 - 'Only Fans - Kosta Viking 1 of 3' reached the maximum ratio you set. Paused.
+(N) 2022-06-17T00:11:56 - qBittorrent v4.2.1 started
+(N) 2022-06-17T00:11:57 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-17T00:11:57 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-06-17T00:11:57 - Peer ID: -qB4210-
+(N) 2022-06-17T00:11:57 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-06-17T00:11:57 - DHT support [ON]
+(I) 2022-06-17T00:11:57 - Local Peer Discovery support [ON]
+(I) 2022-06-17T00:11:57 - PeX support [ON]
+(I) 2022-06-17T00:11:57 - Anonymous mode [OFF]
+(I) 2022-06-17T00:11:57 - Encryption support [ON]
+(W) 2022-06-17T00:11:57 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-06-17T00:11:57 - Using built-in Web UI.
+(W) 2022-06-17T00:11:57 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-06-17T00:11:57 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-06-17T00:11:57 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-06-17T00:11:57 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-06-17T00:11:57 - 'Only Fans - Kosta Viking 3 of 3' restored.
+(N) 2022-06-17T00:11:57 - 'Only Fans - Kosta Viking 2 of 3' restored.
+(N) 2022-06-17T00:11:57 - 'Only Fans - Kosta Viking 1 of 3' restored.
+(C) 2022-06-17T00:11:57 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 2 of 3', pausing it.
+(C) 2022-06-17T00:11:57 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 3 of 3', pausing it.
+(C) 2022-06-17T00:11:58 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 1 of 3', pausing it.
+(W) 2022-06-17T00:12:02 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-06-17T00:12:47 - Detected external IP: 23.81.176.98
+(N) 2022-06-17T00:12:48 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-17T00:13:05 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-17T00:20:36 - qBittorrent v4.2.1 started
+(N) 2022-06-17T00:20:36 - Using config directory: /config/qBittorrent/config/
+(I) 2022-06-17T00:20:36 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-06-17T00:20:36 - Peer ID: -qB4210-
+(N) 2022-06-17T00:20:36 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-06-17T00:20:36 - DHT support [ON]
+(I) 2022-06-17T00:20:36 - Local Peer Discovery support [ON]
+(I) 2022-06-17T00:20:36 - PeX support [ON]
+(I) 2022-06-17T00:20:36 - Anonymous mode [OFF]
+(I) 2022-06-17T00:20:36 - Encryption support [ON]
+(W) 2022-06-17T00:20:36 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-06-17T00:20:36 - Using built-in Web UI.
+(W) 2022-06-17T00:20:36 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-06-17T00:20:36 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-06-17T00:20:36 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-06-17T00:20:36 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-06-17T00:20:36 - 'Only Fans - Kosta Viking 3 of 3' restored.
+(N) 2022-06-17T00:20:37 - 'Only Fans - Kosta Viking 2 of 3' restored.
+(N) 2022-06-17T00:20:37 - 'Only Fans - Kosta Viking 1 of 3' restored.
+(C) 2022-06-17T00:20:37 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 3 of 3', pausing it.
+(C) 2022-06-17T00:20:37 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 2 of 3', pausing it.
+(C) 2022-06-17T00:20:38 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 1 of 3', pausing it.
+(W) 2022-06-17T00:20:42 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-06-17T00:21:27 - Detected external IP: 23.81.176.99
+(N) 2022-06-17T00:21:51 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-06-17T00:22:07 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-07-03T03:38:47 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-07-06T05:32:08 - 'Everything Everywhere All at Once (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]' added to download list.
+(N) 2022-07-06T07:19:37 - 'Everything Everywhere All at Once (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)' reached the maximum ratio you set. Paused.
+(N) 2022-07-06T07:34:44 - 'Everything Everywhere All at Once (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)' was removed from the transfer list and hard disk.
+(N) 2022-07-07T02:43:02 - 'Downton Abbey - A New Era (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]' added to download list.
+(N) 2022-07-07T03:16:11 - 'Downton Abbey - A New Era (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)' reached the maximum ratio you set. Paused.
+(N) 2022-07-07T03:25:17 - 'Downton Abbey - A New Era (2022) (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)' was removed from the transfer list and hard disk.
+(I) 2022-07-07T05:49:29 - Detected external IP: 23.81.176.97
+(I) 2022-07-07T17:59:05 - Detected external IP: 23.81.176.99
+(N) 2022-07-12T00:27:47 - qBittorrent v4.2.1 started
+(N) 2022-07-12T00:27:48 - Using config directory: /config/qBittorrent/config/
+(I) 2022-07-12T00:27:48 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-07-12T00:27:49 - Peer ID: -qB4210-
+(N) 2022-07-12T00:27:49 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-07-12T00:27:49 - DHT support [ON]
+(I) 2022-07-12T00:27:49 - Local Peer Discovery support [ON]
+(I) 2022-07-12T00:27:49 - PeX support [ON]
+(I) 2022-07-12T00:27:49 - Anonymous mode [OFF]
+(I) 2022-07-12T00:27:49 - Encryption support [ON]
+(W) 2022-07-12T00:27:49 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-07-12T00:27:49 - Using built-in Web UI.
+(W) 2022-07-12T00:27:49 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-07-12T00:27:49 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-07-12T00:27:50 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-07-12T00:27:50 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-07-12T00:27:50 - 'Only Fans - Kosta Viking 3 of 3' restored.
+(N) 2022-07-12T00:27:51 - 'Only Fans - Kosta Viking 2 of 3' restored.
+(N) 2022-07-12T00:27:51 - 'Only Fans - Kosta Viking 1 of 3' restored.
+(N) 2022-07-12T00:27:53 - WebAPI login success. IP: 172.22.0.1
+(C) 2022-07-12T00:27:54 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 3 of 3', pausing it.
+(C) 2022-07-12T00:27:55 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 2 of 3', pausing it.
+(W) 2022-07-12T00:27:56 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(C) 2022-07-12T00:27:57 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 1 of 3', pausing it.
+(N) 2022-07-12T00:28:31 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-07-12T00:28:39 - Detected external IP: 23.81.176.99
+(N) 2022-07-12T00:33:33 - qBittorrent v4.2.1 started
+(N) 2022-07-12T00:33:33 - Using config directory: /config/qBittorrent/config/
+(I) 2022-07-12T00:33:33 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-07-12T00:33:33 - Peer ID: -qB4210-
+(N) 2022-07-12T00:33:33 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-07-12T00:33:33 - DHT support [ON]
+(I) 2022-07-12T00:33:33 - Local Peer Discovery support [ON]
+(I) 2022-07-12T00:33:33 - PeX support [ON]
+(I) 2022-07-12T00:33:33 - Anonymous mode [OFF]
+(I) 2022-07-12T00:33:33 - Encryption support [ON]
+(W) 2022-07-12T00:33:33 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-07-12T00:33:33 - Using built-in Web UI.
+(W) 2022-07-12T00:33:33 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-07-12T00:33:33 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-07-12T00:33:34 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-07-12T00:33:34 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-07-12T00:33:34 - 'Only Fans - Kosta Viking 3 of 3' restored.
+(N) 2022-07-12T00:33:34 - 'Only Fans - Kosta Viking 2 of 3' restored.
+(N) 2022-07-12T00:33:34 - 'Only Fans - Kosta Viking 1 of 3' restored.
+(C) 2022-07-12T00:33:35 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 3 of 3', pausing it.
+(C) 2022-07-12T00:33:35 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 2 of 3', pausing it.
+(C) 2022-07-12T00:33:35 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 1 of 3', pausing it.
+(W) 2022-07-12T00:33:39 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-07-12T00:33:42 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-07-12T00:34:25 - Detected external IP: 23.81.176.99
+(N) 2022-07-12T00:34:32 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-07-12T00:35:58 - qBittorrent v4.2.1 started
+(N) 2022-07-12T00:35:58 - Using config directory: /config/qBittorrent/config/
+(I) 2022-07-12T00:35:58 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-07-12T00:35:58 - Peer ID: -qB4210-
+(N) 2022-07-12T00:35:58 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-07-12T00:35:58 - DHT support [ON]
+(I) 2022-07-12T00:35:58 - Local Peer Discovery support [ON]
+(I) 2022-07-12T00:35:58 - PeX support [ON]
+(I) 2022-07-12T00:35:58 - Anonymous mode [OFF]
+(I) 2022-07-12T00:35:58 - Encryption support [ON]
+(W) 2022-07-12T00:35:58 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-07-12T00:35:58 - Using built-in Web UI.
+(W) 2022-07-12T00:35:58 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-07-12T00:35:58 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-07-12T00:35:58 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-07-12T00:35:58 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-07-12T00:36:00 - 'Only Fans - Kosta Viking 3 of 3' restored.
+(N) 2022-07-12T00:36:00 - 'Only Fans - Kosta Viking 2 of 3' restored.
+(N) 2022-07-12T00:36:00 - 'Only Fans - Kosta Viking 1 of 3' restored.
+(C) 2022-07-12T00:36:01 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 3 of 3', pausing it.
+(N) 2022-07-12T00:36:02 - WebAPI login success. IP: 172.22.0.1
+(C) 2022-07-12T00:36:02 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 2 of 3', pausing it.
+(C) 2022-07-12T00:36:03 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 1 of 3', pausing it.
+(W) 2022-07-12T00:36:06 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-07-12T00:36:42 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-07-12T00:36:49 - Detected external IP: 23.81.176.99
+(N) 2022-07-12T05:05:12 - qBittorrent v4.2.1 started
+(N) 2022-07-12T05:05:12 - Using config directory: /config/qBittorrent/config/
+(I) 2022-07-12T05:05:14 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-07-12T05:05:14 - Peer ID: -qB4210-
+(N) 2022-07-12T05:05:14 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-07-12T05:05:14 - DHT support [ON]
+(I) 2022-07-12T05:05:14 - Local Peer Discovery support [ON]
+(I) 2022-07-12T05:05:14 - PeX support [ON]
+(I) 2022-07-12T05:05:14 - Anonymous mode [OFF]
+(I) 2022-07-12T05:05:14 - Encryption support [ON]
+(W) 2022-07-12T05:05:14 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-07-12T05:05:14 - Using built-in Web UI.
+(W) 2022-07-12T05:05:14 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-07-12T05:05:15 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-07-12T05:05:15 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-07-12T05:05:15 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-07-12T05:05:15 - 'Only Fans - Kosta Viking 3 of 3' restored.
+(N) 2022-07-12T05:05:15 - 'Only Fans - Kosta Viking 2 of 3' restored.
+(N) 2022-07-12T05:05:15 - 'Only Fans - Kosta Viking 1 of 3' restored.
+(N) 2022-07-12T05:05:17 - WebAPI login success. IP: 172.22.0.1
+(C) 2022-07-12T05:05:18 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 2 of 3', pausing it.
+(C) 2022-07-12T05:05:18 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 3 of 3', pausing it.
+(C) 2022-07-12T05:05:18 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 1 of 3', pausing it.
+(W) 2022-07-12T05:05:21 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-07-12T05:06:06 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-07-12T05:06:06 - Detected external IP: 23.81.176.98
+(N) 2022-07-12T05:07:37 - qBittorrent v4.2.1 started
+(N) 2022-07-12T05:07:37 - Using config directory: /config/qBittorrent/config/
+(I) 2022-07-12T05:07:37 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-07-12T05:07:37 - Peer ID: -qB4210-
+(N) 2022-07-12T05:07:37 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-07-12T05:07:37 - DHT support [ON]
+(I) 2022-07-12T05:07:37 - Local Peer Discovery support [ON]
+(I) 2022-07-12T05:07:37 - PeX support [ON]
+(I) 2022-07-12T05:07:37 - Anonymous mode [OFF]
+(I) 2022-07-12T05:07:37 - Encryption support [ON]
+(W) 2022-07-12T05:07:37 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-07-12T05:07:37 - Using built-in Web UI.
+(W) 2022-07-12T05:07:37 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-07-12T05:07:37 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-07-12T05:07:37 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-07-12T05:07:37 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-07-12T05:07:38 - 'Only Fans - Kosta Viking 3 of 3' restored.
+(N) 2022-07-12T05:07:38 - 'Only Fans - Kosta Viking 2 of 3' restored.
+(N) 2022-07-12T05:07:38 - 'Only Fans - Kosta Viking 1 of 3' restored.
+(C) 2022-07-12T05:07:38 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 2 of 3', pausing it.
+(C) 2022-07-12T05:07:39 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 3 of 3', pausing it.
+(C) 2022-07-12T05:07:39 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 1 of 3', pausing it.
+(W) 2022-07-12T05:07:43 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-07-12T05:08:15 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-07-12T05:08:27 - Detected external IP: 23.81.176.99
+(N) 2022-07-12T05:09:04 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-07-14T03:37:50 - 'Firebird.2021.REPACK.1080p.WEBRip.x264.AAC.HORiZON-ArtSubs' added to download list.
+(N) 2022-07-14T03:40:45 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-07-14T05:09:58 - qBittorrent v4.2.1 started
+(N) 2022-07-14T05:09:59 - Using config directory: /config/qBittorrent/config/
+(I) 2022-07-14T05:10:17 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-07-14T05:10:18 - Peer ID: -qB4210-
+(N) 2022-07-14T05:10:19 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-07-14T05:10:20 - DHT support [ON]
+(I) 2022-07-14T05:10:20 - Local Peer Discovery support [ON]
+(I) 2022-07-14T05:10:20 - PeX support [ON]
+(I) 2022-07-14T05:10:20 - Anonymous mode [OFF]
+(I) 2022-07-14T05:10:22 - Encryption support [ON]
+(W) 2022-07-14T05:10:22 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-07-14T05:10:24 - Using built-in Web UI.
+(W) 2022-07-14T05:10:25 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-07-14T05:10:26 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-07-14T05:10:29 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-07-14T05:10:30 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-07-14T05:11:09 - 'Only Fans - Kosta Viking 3 of 3' restored.
+(N) 2022-07-14T05:11:13 - 'Only Fans - Kosta Viking 2 of 3' restored.
+(N) 2022-07-14T05:11:16 - 'Only Fans - Kosta Viking 1 of 3' restored.
+(N) 2022-07-14T05:11:20 - 'Firebird.2021.REPACK.1080p.WEBRip.x264.AAC.HORiZON-ArtSubs.mkv' restored.
+(I) 2022-07-14T05:11:23 - Detected external IP: 23.81.176.97
+(C) 2022-07-14T05:11:25 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 3 of 3', pausing it.
+(W) 2022-07-14T05:11:34 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-07-14T05:11:48 - WebAPI login success. IP: 172.22.0.1
+(C) 2022-07-14T05:11:50 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 2 of 3', pausing it.
+(N) 2022-07-14T05:11:56 - WebAPI login success. IP: 172.22.0.1
+(C) 2022-07-14T05:11:58 - File sizes mismatch for torrent 'Only Fans - Kosta Viking 1 of 3', pausing it.
+(N) 2022-07-14T06:28:11 - 'Firebird.2021.REPACK.1080p.WEBRip.x264.AAC.HORiZON-ArtSubs.mkv' reached the maximum ratio you set. Paused.
+(N) 2022-07-14T06:30:03 - 'Firebird.2021.REPACK.1080p.WEBRip.x264.AAC.HORiZON-ArtSubs.mkv' was removed from the transfer list and hard disk.
+(N) 2022-07-14T12:45:43 - 'Jurassic.World.Dominion.2022.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NOGRP' added to download list.
+(N) 2022-07-14T13:07:44 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-07-14T13:08:04 - 'Only Fans - Kosta Viking 3 of 3' was removed from the transfer list and hard disk.
+(N) 2022-07-14T13:08:18 - 'Only Fans - Kosta Viking 1 of 3' was removed from the transfer list and hard disk.
+(N) 2022-07-14T13:08:23 - 'Only Fans - Kosta Viking 2 of 3' was removed from the transfer list and hard disk.
+(N) 2022-07-14T18:29:40 - 'Jurassic.World.Dominion.2022.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NOGRP' reached the maximum ratio you set. Paused.
+(N) 2022-07-14T18:41:33 - 'Jurassic.World.Dominion.2022.2160p.AMZN.WEB-DL.x265.10bit.HDR10Plus.DDP5.1.Atmos-NOGRP' was removed from the transfer list and hard disk.
+(I) 2022-07-17T10:51:32 - Detected external IP: 23.81.176.99
+(I) 2022-07-18T05:37:57 - Detected external IP: 23.81.176.97
+(N) 2022-07-21T01:29:33 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-07-22T08:33:11 - 'The.Lost.City.2022.iTA-ENG.Bluray.2160p.HDR.x265-CYBER.mkv' added to download list.
+(N) 2022-07-22T11:06:43 - 'The.Lost.City.2022.iTA-ENG.Bluray.2160p.HDR.x265-CYBER.mkv' reached the maximum ratio you set. Paused.
+(N) 2022-07-22T11:18:08 - 'The.Lost.City.2022.iTA-ENG.Bluray.2160p.HDR.x265-CYBER.mkv' was removed from the transfer list and hard disk.
+(I) 2022-07-27T05:19:38 - Detected external IP: 23.81.176.99
+(N) 2022-08-04T15:16:49 - 'Sonic.the.Hedgehog.2.2022.2160p.BluRay.3500MB.DDP5.1.x264-GalaxyRG' added to download list.
+(N) 2022-08-04T16:01:09 - 'Sonic.the.Hedgehog.2.2022.2160p.BluRay.3500MB.DDP5.1.x264-GalaxyRG[TGx]' reached the maximum ratio you set. Paused.
+(N) 2022-08-04T16:05:35 - 'Sonic.the.Hedgehog.2.2022.2160p.BluRay.3500MB.DDP5.1.x264-GalaxyRG[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-08-07T01:25:39 - 'The Man from Earth (2007) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence) [QxR]' added to download list.
+(N) 2022-08-07T01:25:54 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-08-07T04:25:15 - 'The Man from Earth (2007) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)' reached the maximum ratio you set. Paused.
+(N) 2022-08-07T04:28:56 - 'The Man from Earth (2007) RM (1080p BluRay x265 HEVC 10bit AAC 5.1 Silence)' was removed from the transfer list and hard disk.
+(N) 2022-08-07T05:20:11 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-08-10T10:53:47 - Detected external IP: 23.81.176.97
+(I) 2022-08-13T10:28:16 - Detected external IP: 23.81.176.98
+(N) 2022-08-20T15:39:06 - 'Jurassic World Dominion (2022) Extended (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole) [QxR]' added to download list.
+(N) 2022-08-20T20:25:50 - 'Jurassic World Dominion (2022) Extended (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)' reached the maximum ratio you set. Paused.
+(N) 2022-08-20T20:50:23 - 'Jurassic World Dominion (2022) Extended (2160p BluRay x265 HEVC 10bit HDR AAC 7.1 Tigole)' was removed from the transfer list and hard disk.
+(N) 2022-08-22T09:18:59 - 'kevin.can.fuck.himself.s02e01.1080p.web.h264-ggez[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-08-22T09:18:59 - 'kevin.can.fuck.himself.s02e02.1080p.web.h264-ggez[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-08-22T10:22:10 - 'kevin.can.fuck.himself.s02e02.1080p.web.h264-ggez[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-08-22T10:26:35 - 'kevin.can.fuck.himself.s02e02.1080p.web.h264-ggez[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-08-22T10:28:20 - 'kevin.can.fuck.himself.s02e01.1080p.web.h264-ggez[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-08-22T10:31:49 - 'kevin.can.fuck.himself.s02e01.1080p.web.h264-ggez[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-08-23T01:31:48 - 'Top.Gun.Maverick.2022.2160p.WEB-DL.DDP5.1.Atmos.HDR.H.265-EVO[TGx]' added to download list.
+(N) 2022-08-23T09:49:06 - 'Top.Gun.Maverick.2022.2160p.WEB-DL.DDP5.1.Atmos.HDR.H.265-EVO[TGx]' reached the maximum ratio you set. Paused.
+(I) 2022-08-23T10:04:46 - Detected external IP: 23.81.176.97
+(N) 2022-08-23T10:21:01 - 'Top.Gun.Maverick.2022.2160p.WEB-DL.DDP5.1.Atmos.HDR.H.265-EVO[TGx]' was removed from the transfer list and hard disk.
+(N) 2022-08-29T12:36:43 - 'kevin.can.fuck.himself.s02e03.1080p.web.h264-ggez[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-08-29T13:07:58 - 'kevin.can.fuck.himself.s02e03.1080p.web.h264-ggez[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-08-29T13:10:37 - 'kevin.can.fuck.himself.s02e03.1080p.web.h264-ggez[eztv.re].mkv' was removed from the transfer list and hard disk.
+(I) 2022-08-30T11:37:16 - Detected external IP: 23.81.176.99
+(I) 2022-09-01T00:30:23 - Detected external IP: 23.81.176.97
+(N) 2022-09-05T04:17:35 - 'Rick.and.Morty.S06E01.1080p.WEBRip.x264-BAE[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-09-05T04:27:10 - 'Rick.and.Morty.S06E01.1080p.WEBRip.x264-BAE[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-05T04:28:47 - 'Rick.and.Morty.S06E01.1080p.WEBRip.x264-BAE[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-09-05T07:39:09 - 'kevin.can.fuck.himself.s02e04.1080p.web.h264-ggez[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-09-05T08:03:14 - 'kevin.can.fuck.himself.s02e04.1080p.web.h264-ggez[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-05T08:06:22 - 'kevin.can.fuck.himself.s02e04.1080p.web.h264-ggez[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-09-07T09:47:57 - 'Top.Gun.Maverick.2022.iTA-ENG.iMAX.Bluray.2160p.HDR.x265-CYBER.mkv' added to download list.
+(N) 2022-09-07T13:36:19 - 'Top.Gun.Maverick.2022.iTA-ENG.iMAX.Bluray.2160p.HDR.x265-CYBER.mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-07T14:00:11 - 'Top.Gun.Maverick.2022.iTA-ENG.iMAX.Bluray.2160p.HDR.x265-CYBER.mkv' was removed from the transfer list and hard disk.
+(N) 2022-09-12T03:42:44 - 'Rick.and.Morty.S06E02.1080p.WEBRip.x264-BAE[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-09-12T03:52:35 - 'Rick.and.Morty.S06E02.1080p.WEBRip.x264-BAE[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-12T03:54:14 - 'Rick.and.Morty.S06E02.1080p.WEBRip.x264-BAE[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-09-12T07:35:18 - 'kevin.can.fuck.himself.s02e05.1080p.web.h264-glhf[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-09-12T08:07:47 - 'kevin.can.fuck.himself.s02e05.1080p.web.h264-glhf[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-12T08:11:05 - 'kevin.can.fuck.himself.s02e05.1080p.web.h264-glhf[eztv.re].mkv' was removed from the transfer list and hard disk.
+(I) 2022-09-13T18:10:38 - Detected external IP: 23.81.176.98
+(N) 2022-09-14T00:38:56 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-14T00:39:16 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-15T03:54:05 - 'Community S01 S06 COMPLETE 1080p BluRay DD5.1 With Commentary x2' added to download list.
+(N) 2022-09-15T03:54:18 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-15T06:29:24 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-15T10:31:35 - 'Community.S01-S06.COMPLETE.1080p.BluRay.DD5.1.With.Commentary.x265-POIASD' reached the maximum ratio you set. Paused.
+(N) 2022-09-15T10:46:55 - 'Community.S01-S06.COMPLETE.1080p.BluRay.DD5.1.With.Commentary.x265-POIASD' was removed from the transfer list and hard disk.
+(N) 2022-09-15T16:50:47 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-15T16:52:08 - 'Community.2009.S01.Season.1.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' added to download list.
+(N) 2022-09-15T16:52:12 - 'Community.2009.S02.Season.2.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' added to download list.
+(N) 2022-09-15T16:52:18 - 'Community.2009.S03.Season.3.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' added to download list.
+(N) 2022-09-15T16:52:23 - 'Community.2009.S04.Season.4.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' added to download list.
+(N) 2022-09-15T16:52:29 - 'Community.2009.S05.Season.5.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' added to download list.
+(N) 2022-09-15T16:52:34 - 'Community.2009.S06.Season.6.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' added to download list.
+(N) 2022-09-15T16:52:47 - 'Community.2009.S01.Season.1.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' was removed from the transfer list and hard disk.
+(N) 2022-09-15T18:46:28 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-15T21:05:09 - 'Community.2009.S04.Season.4.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' reached the maximum ratio you set. Paused.
+(N) 2022-09-15T21:13:27 - 'Community.2009.S04.Season.4.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' was removed from the transfer list and hard disk.
+(N) 2022-09-15T21:16:48 - 'Community.2009.S05.Season.5.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' reached the maximum ratio you set. Paused.
+(N) 2022-09-15T21:29:12 - 'Community.2009.S05.Season.5.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' was removed from the transfer list and hard disk.
+(N) 2022-09-15T21:30:58 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-15T21:58:06 - 'Community.2009.S06.Season.6.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' reached the maximum ratio you set. Paused.
+(N) 2022-09-15T22:08:29 - 'Community.2009.S06.Season.6.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' was removed from the transfer list and hard disk.
+(N) 2022-09-15T23:37:09 - 'Community.2009.S03.Season.3.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' reached the maximum ratio you set. Paused.
+(N) 2022-09-15T23:45:18 - 'Community.2009.S02.Season.2.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' reached the maximum ratio you set. Paused.
+(N) 2022-09-15T23:55:21 - 'Community.2009.S03.Season.3.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' was removed from the transfer list and hard disk.
+(N) 2022-09-16T00:04:33 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-16T00:11:32 - 'Community.2009.S02.Season.2.PROPER.1080p.BluRay.x264-maximersk [mrsktv]' was removed from the transfer list and hard disk.
+(I) 2022-09-19T02:30:25 - Detected external IP: 23.81.176.99
+(N) 2022-09-19T03:40:20 - 'rick.and.morty.s06e03.1080p.web.h264-glhf[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-09-19T04:05:17 - 'rick.and.morty.s06e03.1080p.web.h264-glhf[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-19T04:07:07 - 'rick.and.morty.s06e03.1080p.web.h264-glhf[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-09-21T05:01:37 - 'Kevin.Can.Fuck.Himself.S02E06.1080p.WEB.h264-KOGi[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-09-21T06:09:26 - 'Kevin.Can.Fuck.Himself.S02E06.1080p.WEB.h264-KOGi[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-21T06:13:46 - 'Kevin.Can.Fuck.Himself.S02E06.1080p.WEB.h264-KOGi[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-09-25T04:45:53 - qBittorrent v4.2.1 started
+(N) 2022-09-25T04:45:53 - Using config directory: /config/qBittorrent/config/
+(I) 2022-09-25T04:45:53 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-09-25T04:45:53 - Peer ID: -qB4210-
+(N) 2022-09-25T04:45:53 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-09-25T04:45:53 - DHT support [ON]
+(I) 2022-09-25T04:45:53 - Local Peer Discovery support [ON]
+(I) 2022-09-25T04:45:53 - PeX support [ON]
+(I) 2022-09-25T04:45:53 - Anonymous mode [OFF]
+(I) 2022-09-25T04:45:53 - Encryption support [ON]
+(W) 2022-09-25T04:45:53 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-09-25T04:45:54 - Using built-in Web UI.
+(W) 2022-09-25T04:45:54 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-09-25T04:45:54 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-09-25T04:45:54 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-09-25T04:45:54 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-09-25T04:45:59 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-09-25T04:46:30 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-09-25T04:46:44 - Detected external IP: 23.81.176.99
+(N) 2022-09-25T04:46:45 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-25T04:52:36 - qBittorrent v4.2.1 started
+(N) 2022-09-25T04:52:36 - Using config directory: /config/qBittorrent/config/
+(I) 2022-09-25T04:52:37 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-09-25T04:52:37 - Peer ID: -qB4210-
+(N) 2022-09-25T04:52:37 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-09-25T04:52:37 - DHT support [ON]
+(I) 2022-09-25T04:52:37 - Local Peer Discovery support [ON]
+(I) 2022-09-25T04:52:37 - PeX support [ON]
+(I) 2022-09-25T04:52:37 - Anonymous mode [OFF]
+(I) 2022-09-25T04:52:37 - Encryption support [ON]
+(W) 2022-09-25T04:52:37 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-09-25T04:52:38 - Using built-in Web UI.
+(W) 2022-09-25T04:52:38 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-09-25T04:52:38 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-09-25T04:52:38 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-09-25T04:52:38 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-09-25T04:52:44 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-09-25T04:52:45 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-09-25T04:53:29 - Detected external IP: 23.81.176.99
+(N) 2022-09-25T04:55:01 - qBittorrent v4.2.1 started
+(N) 2022-09-25T04:55:01 - Using config directory: /config/qBittorrent/config/
+(I) 2022-09-25T04:55:01 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-09-25T04:55:02 - Peer ID: -qB4210-
+(N) 2022-09-25T04:55:02 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-09-25T04:55:02 - DHT support [ON]
+(I) 2022-09-25T04:55:02 - Local Peer Discovery support [ON]
+(I) 2022-09-25T04:55:02 - PeX support [ON]
+(I) 2022-09-25T04:55:02 - Anonymous mode [OFF]
+(I) 2022-09-25T04:55:02 - Encryption support [ON]
+(W) 2022-09-25T04:55:02 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-09-25T04:55:02 - Using built-in Web UI.
+(W) 2022-09-25T04:55:02 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-09-25T04:55:02 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-09-25T04:55:02 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-09-25T04:55:02 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-09-25T04:55:08 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-09-25T04:55:30 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-25T04:55:46 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-09-25T04:55:53 - Detected external IP: 23.81.176.98
+(N) 2022-09-26T04:07:39 - 'rick.and.morty.s06e04.1080p.web.h264-ggez[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-09-26T04:27:53 - 'rick.and.morty.s06e04.1080p.web.h264-ggez[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-26T04:30:09 - 'rick.and.morty.s06e04.1080p.web.h264-ggez[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-09-26T07:44:41 - 'kevin.can.fuck.himself.s02e07.1080p.web.h264-glhf[eztv.re].mkv[eztv.re]' added to download list.
+(N) 2022-09-26T08:03:28 - qBittorrent v4.2.1 started
+(N) 2022-09-26T08:03:28 - Using config directory: /config/qBittorrent/config/
+(I) 2022-09-26T08:03:28 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-09-26T08:03:28 - Peer ID: -qB4210-
+(N) 2022-09-26T08:03:28 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-09-26T08:03:28 - DHT support [ON]
+(I) 2022-09-26T08:03:28 - Local Peer Discovery support [ON]
+(I) 2022-09-26T08:03:28 - PeX support [ON]
+(I) 2022-09-26T08:03:28 - Anonymous mode [OFF]
+(I) 2022-09-26T08:03:28 - Encryption support [ON]
+(W) 2022-09-26T08:03:28 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-09-26T08:03:28 - Using built-in Web UI.
+(W) 2022-09-26T08:03:28 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-09-26T08:03:28 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-09-26T08:03:29 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-09-26T08:03:29 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-09-26T08:03:29 - 'kevin.can.fuck.himself.s02e07.1080p.web.h264-glhf[eztv.re].mkv' restored.
+(W) 2022-09-26T08:03:34 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-09-26T08:04:00 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-26T08:04:13 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-09-26T08:04:22 - Detected external IP: 23.81.176.97
+(N) 2022-09-26T08:09:54 - qBittorrent v4.2.1 started
+(N) 2022-09-26T08:09:54 - Using config directory: /config/qBittorrent/config/
+(I) 2022-09-26T08:09:54 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-09-26T08:09:54 - Peer ID: -qB4210-
+(N) 2022-09-26T08:09:54 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-09-26T08:09:54 - DHT support [ON]
+(I) 2022-09-26T08:09:54 - Local Peer Discovery support [ON]
+(I) 2022-09-26T08:09:54 - PeX support [ON]
+(I) 2022-09-26T08:09:54 - Anonymous mode [OFF]
+(I) 2022-09-26T08:09:54 - Encryption support [ON]
+(W) 2022-09-26T08:09:54 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-09-26T08:09:54 - Using built-in Web UI.
+(W) 2022-09-26T08:09:54 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-09-26T08:09:54 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-09-26T08:09:54 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-09-26T08:09:54 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(N) 2022-09-26T08:09:54 - 'kevin.can.fuck.himself.s02e07.1080p.web.h264-glhf[eztv.re].mkv' restored.
+(N) 2022-09-26T08:10:00 - WebAPI login success. IP: 172.22.0.1
+(W) 2022-09-26T08:10:01 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-09-26T08:10:10 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-09-26T08:10:47 - Detected external IP: 23.81.176.99
+(N) 2022-09-26T08:52:51 - 'kevin.can.fuck.himself.s02e07.1080p.web.h264-glhf[eztv.re].mkv' reached the maximum ratio you set. Paused.
+(N) 2022-09-26T08:56:52 - 'kevin.can.fuck.himself.s02e07.1080p.web.h264-glhf[eztv.re].mkv' was removed from the transfer list and hard disk.
+(N) 2022-09-27T11:51:52 - qBittorrent v4.2.1 started
+(N) 2022-09-27T11:51:52 - Using config directory: /config/qBittorrent/config/
+(I) 2022-09-27T11:51:52 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-09-27T11:51:52 - Peer ID: -qB4210-
+(N) 2022-09-27T11:51:52 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-09-27T11:51:52 - DHT support [ON]
+(I) 2022-09-27T11:51:52 - Local Peer Discovery support [ON]
+(I) 2022-09-27T11:51:52 - PeX support [ON]
+(I) 2022-09-27T11:51:52 - Anonymous mode [OFF]
+(I) 2022-09-27T11:51:52 - Encryption support [ON]
+(W) 2022-09-27T11:51:52 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-09-27T11:51:52 - Using built-in Web UI.
+(W) 2022-09-27T11:51:52 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-09-27T11:51:52 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-09-27T11:51:52 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-09-27T11:51:52 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-09-27T11:52:00 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2022-09-27T11:52:01 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-27T11:52:10 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-09-27T11:52:50 - Detected external IP: 23.81.176.98
+(N) 2022-09-27T11:59:47 - qBittorrent v4.2.1 started
+(N) 2022-09-27T11:59:47 - Using config directory: /config/qBittorrent/config/
+(I) 2022-09-27T11:59:52 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-09-27T11:59:53 - Peer ID: -qB4210-
+(N) 2022-09-27T11:59:53 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-09-27T11:59:53 - DHT support [ON]
+(I) 2022-09-27T11:59:54 - Local Peer Discovery support [ON]
+(I) 2022-09-27T11:59:54 - PeX support [ON]
+(I) 2022-09-27T11:59:54 - Anonymous mode [OFF]
+(I) 2022-09-27T11:59:54 - Encryption support [ON]
+(W) 2022-09-27T11:59:54 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-09-27T11:59:55 - Using built-in Web UI.
+(W) 2022-09-27T11:59:55 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-09-27T11:59:55 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-09-27T11:59:55 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-09-27T11:59:55 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-09-27T12:00:01 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-09-27T12:00:45 - Detected external IP: 23.81.176.99
+(N) 2022-09-27T12:01:03 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-27T12:01:08 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-27T12:07:31 - qBittorrent v4.2.1 started
+(N) 2022-09-27T12:07:31 - Using config directory: /config/qBittorrent/config/
+(I) 2022-09-27T12:07:31 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-09-27T12:07:31 - Peer ID: -qB4210-
+(N) 2022-09-27T12:07:31 - HTTP User-Agent is 'qBittorrent/4.2.1'
+(I) 2022-09-27T12:07:31 - DHT support [ON]
+(I) 2022-09-27T12:07:31 - Local Peer Discovery support [ON]
+(I) 2022-09-27T12:07:31 - PeX support [ON]
+(I) 2022-09-27T12:07:31 - Anonymous mode [OFF]
+(I) 2022-09-27T12:07:31 - Encryption support [ON]
+(W) 2022-09-27T12:07:31 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-09-27T12:07:31 - Using built-in Web UI.
+(W) 2022-09-27T12:07:31 - Couldn't load Web UI translation for selected locale (en).
+(N) 2022-09-27T12:07:31 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-09-27T12:07:31 - Successfully listening on IP: 0.0.0.0, port: TCP/55641
+(I) 2022-09-27T12:07:31 - Successfully listening on IP: 0.0.0.0, port: UDP/55641
+(W) 2022-09-27T12:07:37 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-09-27T12:08:22 - Detected external IP: 23.81.176.97
+(N) 2022-09-27T12:08:30 - WebAPI login success. IP: 172.22.0.1
+(N) 2022-09-27T12:08:37 - WebAPI login success. IP: 172.22.0.1
+(I) 2022-09-30T19:11:18 - Detected external IP: 23.81.176.98
+(N) 2022-10-01T03:15:43 - qBittorrent v4.3.9 started
+(N) 2022-10-01T03:15:43 - Using config directory: /config/qBittorrent/config/
+(I) 2022-10-01T03:15:44 - Trying to listen on: 0.0.0.0:55641,[::]:55641
+(N) 2022-10-01T03:15:44 - Peer ID: -qB4390-
+(N) 2022-10-01T03:15:44 - HTTP User-Agent is 'qBittorrent/4.3.9'
+(I) 2022-10-01T03:15:44 - DHT support [ON]
+(I) 2022-10-01T03:15:44 - Local Peer Discovery support [ON]
+(I) 2022-10-01T03:15:44 - PeX support [ON]
+(I) 2022-10-01T03:15:44 - Anonymous mode [OFF]
+(I) 2022-10-01T03:15:44 - Encryption support [ON]
+(W) 2022-10-01T03:15:44 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2022-10-01T03:15:44 - Using built-in Web UI.
+(N) 2022-10-01T03:15:44 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-10-01T03:15:44 - Web UI: Now listening on IP: 0.0.0.0, port: 19091
+(I) 2022-10-01T03:15:44 - Successfully listening on IP: 127.0.0.1, port: TCP/55641
+(I) 2022-10-01T03:15:44 - Successfully listening on IP: 127.0.0.1, port: UDP/55641
+(I) 2022-10-01T03:15:44 - Successfully listening on IP: 10.7.0.4, port: TCP/55641
+(I) 2022-10-01T03:15:44 - Successfully listening on IP: 10.7.0.4, port: UDP/55641
+(I) 2022-10-01T03:15:44 - Successfully listening on IP: 172.18.0.7, port: TCP/55641
+(I) 2022-10-01T03:15:44 - Successfully listening on IP: 172.18.0.7, port: UDP/55641
+(W) 2022-10-01T03:15:49 - Couldn't download IP geolocation database file. Reason: The remote content was not found at the server (404)
+(I) 2022-10-01T03:16:09 - Detected external IP: 23.81.176.99
+(N) 2022-10-01T03:21:56 - qBittorrent v4.3.9 started
